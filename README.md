@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @Qu1qu3
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Java, C#, Python and Arduino
-🎓 Currently studying Computer Science at Universidad Politécnica de Valencia.
+- 🎓 Currently studying Computer Science at Universidad Politécnica de Valencia.
 <!---
 Qu1qu3/Qu1qu3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
