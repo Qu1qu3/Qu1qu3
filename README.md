@@ -1,4 +1,5 @@
-![Hello there obi wan kenobi gif](https://user-images.githubusercontent.com/84251991/167663499-1d47ba6f-9f21-458b-b277-04f580f23876.gif)
+![obi-wan-hello-there](https://user-images.githubusercontent.com/57369001/172705035-09b39575-b917-448a-8895-af2c4a8ca0a3.gif)
+
 - 👋 Hi, I’m @Qu1qu3
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Java, C#, Python and Arduino
