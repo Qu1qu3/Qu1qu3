@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif)" width="100"/>
-</div>
+![https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif)
 
 ![obi-wan-hello-there](https://user-images.githubusercontent.com/57369001/172705035-09b39575-b917-448a-8895-af2c4a8ca0a3.gif)
 
